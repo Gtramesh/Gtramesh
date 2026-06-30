@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Gtramesh&label=Profile+Views&color=70a5fd&style=for-the-badge" />
 &nbsp;
-<a href="https://www.linkedin.com/in/ramesh-govindaraj-024253128/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ramesh-govindaraj-024253128/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"/></a>
 &nbsp;
 <a href="mailto:gtramesh126@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
@@ -20,9 +20,15 @@
 </div>
 
 ---
-
 <!-- ABOUT ME -->
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+
+
+
+
+
+<img align="right" margin-top="50px" height="250" width="360" src="https://saivigyan.in/wp-content/uploads/2025/05/DALL%C2%B7E-2024-03-16-05.58.33-A-captivating-blog-image-depicting-the-convergence-of-Artificial-Intelligence-AI-the-Internet-of-Things-IoT-and-email-technologies.-The-design-s-2.webp"/>
+
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
